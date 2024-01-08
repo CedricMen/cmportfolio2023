@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/cmportfolio2023/static/css/main.9aacd87e.css",
-    "main.js": "/cmportfolio2023/static/js/main.d9e54637.js",
+    "main.css": "/cmportfolio2023/static/css/main.b6bcc434.css",
+    "main.js": "/cmportfolio2023/static/js/main.698cd41c.js",
     "static/media/rendu-fromage.png": "/cmportfolio2023/static/media/rendu-fromage.7638088cf2aafe3c097d.png",
     "static/media/rendu-tomate.png": "/cmportfolio2023/static/media/rendu-tomate.9b8468e75989bc1b80ce.png",
     "static/media/laitue-rendu.png": "/cmportfolio2023/static/media/laitue-rendu.87e3215cc5e4dee1685c.png",
@@ -43,6 +43,7 @@
     "static/media/react-icon.png": "/cmportfolio2023/static/media/react-icon.cc87abb265181f646d24.png",
     "static/media/vs_code-icon.png": "/cmportfolio2023/static/media/vs_code-icon.4ba3b37c59babdad8196.png",
     "static/media/burger-rendu.jpg": "/cmportfolio2023/static/media/burger-rendu.3698be3320adfb8d04cc.jpg",
+    "static/media/mockup-projet-7.png": "/cmportfolio2023/static/media/mockup-projet-7.877662884ab0b6f2a4a5.png",
     "static/media/brochette-rendu.jpg": "/cmportfolio2023/static/media/brochette-rendu.da2867c29061366d9112.jpg",
     "static/media/touchdesigner.png": "/cmportfolio2023/static/media/touchdesigner.556c62edda0112cc7333.png",
     "static/media/wordpress.png": "/cmportfolio2023/static/media/wordpress.20bce73ac6516d4848c4.png",
@@ -53,11 +54,11 @@
     "index.html": "/cmportfolio2023/index.html",
     "static/media/sketchfab-logo-hover.svg": "/cmportfolio2023/static/media/sketchfab-logo-hover.1aa0b366cbf8ea893b50.svg",
     "static/media/sketchfab-logo.svg": "/cmportfolio2023/static/media/sketchfab-logo.43a56ccb368967209db3.svg",
-    "main.9aacd87e.css.map": "/cmportfolio2023/static/css/main.9aacd87e.css.map",
-    "main.d9e54637.js.map": "/cmportfolio2023/static/js/main.d9e54637.js.map"
+    "main.b6bcc434.css.map": "/cmportfolio2023/static/css/main.b6bcc434.css.map",
+    "main.698cd41c.js.map": "/cmportfolio2023/static/js/main.698cd41c.js.map"
   },
   "entrypoints": [
-    "static/css/main.9aacd87e.css",
-    "static/js/main.d9e54637.js"
+    "static/css/main.b6bcc434.css",
+    "static/js/main.698cd41c.js"
   ]
 }
